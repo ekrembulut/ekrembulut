@@ -1,8 +1,8 @@
-I'm studying computer engineering 3th year at Halic University. My hobbies :- Learning something new - Creating mobile app
+I'm studying computer engineering 2th year at Bahcesehir University. My hobbies :- Learning something new - Creating mobile app
 
-* 🌍  I'm based in Istanbul - Antalya / Turkey
-* ✉️  You can contact me at [ramazanzkn07@gmail.com](mailto:ramazanzkn07@gmail.com)
-* 🧠  I'm learning Flutter and iOS swift
+* 🌍  I'm based in Istanbul - Sakarya / Turkey
+* ✉️  You can contact me at [ekrmbulut@gmail.com](mailto:ekrmbulut@gmail.com)
+* 🧠  I'm learning Flutter , JavaScripts and iOS swift
 
 ### Skills
 
